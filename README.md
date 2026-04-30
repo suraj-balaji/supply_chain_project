@@ -35,15 +35,28 @@ Built an end-to-end analytics project using MySQL and Power BI to analyze supply
 
 ## Dashboard Preview
 dashboard_screenshot.png
+<img width="598" height="340" alt="supply_chain_dashboard_screenshot" src="https://github.com/user-attachments/assets/51de3e24-8567-4ef4-99c2-e433f1b42d2c" />
+
 
 ## Files Included
-/sql
-Supply_Chain_Project\output\dataco_supply_chain_analysis.pbix
-/output
-/data
+sql/ </br>
+data/ </br>
+powerbi/ </br>
+docs/ </br>
+images/ </br>
+README.md
+
+##  Data & File Notes
+- Full dataset not uploaded due to size constraints
+- Sample data provided in data/
 
 ## Business Recommendations
 - Investigate premium shipping delays
 - Focus investment in top profit regions
 - Reduce discount-heavy low margin products
 - Improve low-performing regional operations
+
+👤 Author
+
+Suraj Balaji Bhagaye </br>
+email-id: besuraj28@gmail,com
